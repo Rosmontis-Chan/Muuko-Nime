@@ -1,13 +1,4 @@
 ---
-title: README
-emoji: 📚
-colorFrom: blue
-colorTo: blue
-sdk: static
-pinned: false
-metrics:
-- character
----
 
 ![Mutsumi Model](https://huggingface.co/Plana-Archive/Muuko-Nime/resolve/main/Muuko-Nime.PNG)
 
